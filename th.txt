@@ -1,0 +1,49 @@
+
+
+                                    DATA TYPE
+         Premitive Data TYPE                    Non Premitive Data TYPE
+
+ Boolean                   Numric
+ boolean          charvalue            integervalue
+                     char           
+                                  inteeger           flotingpoint
+                                                      
+                            byte   short int  long   float  double       
+
+
+                                               String  array ,etc
+
+
+1 byte --> ? bits 8
+
+
+ 16-1
+2
+ 15
+2
+2 * 2 *2 *2
+
+ 32 -1
+2
+- 32768 to  32767
+
+
+what is an operator ???
+operators are special symbols which can use to perform any operations
+
+type of operators :
+arithmetic operator + - * / %
+relational operator < > <= >= == !=
+logical operator && || !
+bitwise operator & | ^ ~ << >>
+increment operator ++ --
+decrement operator -- --
+assignment operator = += -= *= /= %= &= |= ^= <<= >>= >>>=
+ternary operator ? :
+
+
+equal operatror = 
+
+it will assign right side value to left side...
+
+
