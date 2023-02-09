@@ -46,4 +46,21 @@ equal operatror =
 
 it will assign right side value to left side...
 
+Relational op
+logical operator -->
+
+
+decision making statements
+if else
+switch case
+loops
+
+if(condition){
+
+	statements::
+}
+else{
+	statements
+}
+
 

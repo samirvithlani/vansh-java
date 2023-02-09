@@ -1,0 +1,43 @@
+
+q1
+enter a year ?
+year is leap year or not?? 2004 leap year 2008 leap year
+
+
+q2
+5 subjects 
+enter matsh marks -->
+toal display
+display per
+GRADE A+ per > 90
+,A >80 to 90
+,B > 70 to 80
+,C 50 to 70
+, FAIL below 50
+
+
+q3
+enter a salary monthly 10000 
+
+if yearly salary > 500000 user have to pay tax 15 % of salary
+if yearly saalry > 400000 and lesth 5 lack user have to pay salary 8 % of anual income
+if yearly saalry less thn 250000 user willl get return tax as gift from gov as 3 %
+
+net salary of user
+if tax pay how much???
+if tax gain how much???
+
+45000 * 12 = 
+anula income 540000 *15 % 81000
+user have to [ay 81000 rs anual tax --?
+monthly tax would 81000 / 12 = 6750
+
+
+
+
+
+
+
+
+
+
