@@ -32,6 +32,41 @@ anula income 540000 *15 % 81000
 user have to [ay 81000 rs anual tax --?
 monthly tax would 81000 / 12 = 6750
 
+------------------------------------------
+
+AMAZON
+
+press 1 for electronics 
+	mobile --> 25000
+	laptop ---> 100000
+ 
+press 2 for fashion --> 
+	male 
+	  tshirt --> 500
+	  shirt --> 800
+	female
+		slacks
+		tshirt
+press 3 for house holds - groc
+	press 1 for milk 
+	    cow milk
+	    buf milk
+	press 2 for water bottle
+	    solid rock water
+	    minral water
+	
+	
+
+
+
+
+
+
+
+
+
+
+
 
 
 
