@@ -56,6 +56,46 @@ press 3 for house holds - groc
 	    minral water
 	
 	
+loop task
+
+1)check no is palindrome or not???
+
+	121 --?
+	
+2)arm strong no
+
+153 ->
+ 3  3   3
+1 +5 + 3   1 + 125 +27 = 153
+
+3)twin no
+
+sum of digit and mul of digit both are same thn it twin
+123 1 + 2+ 3 = 6
+1 * 2 * 3 =   6
+
+
+for...
+4)find factorial of no
+5 --> 5 * 4 *  3 *2 *1 <===> 120
+
+
+6)power and base
+insrt pow and insert base...
+ 4
+2
+2 * 2 * 2 *2 --> 16
+
+
+
+
+
+
+
+
+
+
+	 	
 
 
 
