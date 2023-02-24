@@ -63,4 +63,31 @@ else{
 	statements
 }
 
+function:- / methods behaviours -> all functions created inside class called methods
+function is group of statements
+
+2 types of methods are there !!!
+1)pre define method...
+	buitin
+2)user define method...
+	user will create methods accorind to need
+	
+	static method										non static method
+	
+
+4) type
+1)with return type with argument/param
+2)with return type without argument/param
+3)without return type with argument/param
+4)with return type without argument/param
+
+oops:
+1)inheritance
+2)polymorephisam
+3)abstracction
+4)encapsulation
+	  class    object
+	  constructor ,access modifiers
+
+
 
