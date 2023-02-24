@@ -83,6 +83,23 @@ function is group of statements
 
 oops:
 1)inheritance
+	child class can use property of parent  super  derived class called inheritance
+	reusablity of property
+	extends
+	
+	1)single
+		a --> b
+	2)multilevel
+		a--->b--->c
+	3)multiple --> 1 parent 2 child
+	4)hricical
+							a
+				p					Q
+		M           N	    R             S					
+	
+	4)hybride
+		A-->
+	
 2)polymorephisam
 3)abstracction
 4)encapsulation
