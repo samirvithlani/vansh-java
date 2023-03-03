@@ -108,3 +108,26 @@ oops:
 
 
 
+polymorephisam
+
+
+poly means many more phsiam forms many form of the function
+
+
+compile time poly  / static binding
+	 	method over laoding...
+	 
+run time  / dynamic binding
+
+	method over riding..
+
+
+
+abstract is that the data you dont want to show hide that data called abstraction
+
+abstarction using abstract class or interface..
+
+
+
+
+
