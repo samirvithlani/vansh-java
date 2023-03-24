@@ -91,6 +91,24 @@ insrt pow and insert base...
 2
 2 * 2 * 2 *2 --> 16
 
+-------------------------------------------------------------
+constructor
+interface
+abstract class optional
+methods
+need to follow all java naming convention
+
+1)take input from user please enter land area:
+2)take input from user please enter no of unit to built:
+
+1 raw house required minuim 1200 sq feet land
+user have to insert land that can built min 10 row house 12000 otherwise throw an error...
+
+output:
+insterted land : 12300
+no of row house can be built : eg 10
+remaing space allocate to garden area: 600 garden...
+
 
 
 
