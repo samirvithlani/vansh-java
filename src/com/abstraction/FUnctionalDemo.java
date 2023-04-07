@@ -1,7 +1,6 @@
 package com.abstraction;
 
-@FunctionalInterface
-interface Booking{
+ interface Booking{
 	
 	void book();
 	//void book1();

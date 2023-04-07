@@ -128,6 +128,53 @@ abstract is that the data you dont want to show hide that data called abstractio
 abstarction using abstract class or interface..
 
 
+String:
+---------------
+String class 
+java.lang.String
+
+mutable and immutable
+mutable : modification can be done
+immutable modification can not be done with same reference..
+
+String dynamic array data store...
+
+stirng is immutable in java..
+
+
+Stack    Heap
+
+static memory     dynamic memory
+
+
+String s = "Royal"
+s+" java""
+
+2 ways
+
+String s ="""
+String s = new String("")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
