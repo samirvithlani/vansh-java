@@ -1,0 +1,44 @@
+
+
+Exception
+Error
+
+all are classes...
+
+					Throwable
+		Error                   Exception
+		.							runtime exception
+									io exception
+									......
+									
+error must be resolved...
+	int a
+	error
+	flot f
+and exception need to handle...
+
+when programm runs and its stops pn continuius flow it is called exception
+type of exception
+2 type of exception are there...
+
+1)compile time exception
+	checked exception
+	
+2) runtime exception
+	unchecked exception
+	
+how to handle exception
+ 2 ways to handle a exception
+ 1)using try catch and finally block
+ 2)using throws keyword..
+ 
+ 
+ 
+ 
+ 	 
+
+
+
+
+
+												
